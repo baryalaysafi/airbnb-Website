@@ -1,5 +1,5 @@
+website link:https://baryalaysafi.github.io/airbnb-Website/
 This HTML document constitutes a fully-functional webpage titled "Relax - Baryalay Safi." It is designed to offer a user-friendly interface for users seeking accommodation options. The webpage is structured into various sections to facilitate easy navigation and access to relevant information.
-https://baryalaysafi.github.io/airbnb-Website/
 
 At the top, the header section features a navigation bar containing links to different sections of the website, including "Popular Places," "Travel Outside," and "Online Packages." Additionally, there's a prominent "Register Now" button for new users to sign up. A menu icon provides further navigation options.
 
